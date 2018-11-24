@@ -1,8 +1,7 @@
 # Real Time Machine Learning
 
 
-資料
-[https://github.com/kgryte/talks-nodefest-japan-2018](https://github.com/kgryte/talks-nodefest-japan-2018)
+[資料](https://github.com/kgryte/talks-nodefest-japan-2018)
 ## intro
 
 
