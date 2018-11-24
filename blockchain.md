@@ -1,5 +1,7 @@
 # ブロックチェーンアプリケーションのJavaScriptの開発
 
+[資料](https://docs.google.com/presentation/d/1EmXHYEZr4KHixWg_4ttK5r5EeFnOez8Cj2AQ_Sfc6mo/edit)
+
 ## QuestというDappsを使った
 
 ### Questの説明
