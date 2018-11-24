@@ -4,6 +4,8 @@
 
 TypeScriptを愛している
 
+[資料](https://speakerdeck.com/kimamula/angular-universal-on-google-app-engine)
+
 ## What is Angular Universal
 
 AngularでSSRを可能にするためのプロジェクト
